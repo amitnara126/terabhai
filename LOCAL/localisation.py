@@ -5,9 +5,9 @@ START_TEXT = "Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
-CHANNEL_LINK = "https://t.me/DroneBots"
+CHANNEL_LINK = "https://t.me/VCAM_CHANNLE"
 
-SUPPORT_LINK = "https://t.me/TeamDrone"
+SUPPORT_LINK = "https://t.me/VCAM_CHANNLE"
 
 info_text = "This bot is developed by @MaheshChauhan\n\nWritten in python library TELETHON.\n\nBot by : @DroneBots\nSupport : @TeamDrone\n\nV1.4"   
 
@@ -29,7 +29,7 @@ help_text = """**v1.4**
 
 source_text = "**Deploy your own bot**"
 
-DEV = "https://t.me/MaheshChauhan"
+DEV = "https://t.me/VCAM_CHANNLE"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
